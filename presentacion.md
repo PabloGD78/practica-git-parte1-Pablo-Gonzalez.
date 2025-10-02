@@ -7,4 +7,4 @@ xx
  ir al gimnasio
  jugar al futbol
 
-Mi deporte favorito es el futbol
+Mi deporte favorito es el baloncesto
